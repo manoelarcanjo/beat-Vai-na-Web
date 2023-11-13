@@ -54,10 +54,9 @@ header {
 }
 
 .cursor {
-    position: fixed;
+    position: absolute;
     top: 2rem;
     left: 23rem;
-
 
     img {
         width: 1.2rem;
